@@ -4,7 +4,7 @@ AI/ML Engineer | Generative AI Engineer | LLMs | RAG | Agentic AI
 
 ## About Me
 
-* AI/ML Engineer with 1+ years of experience
+* AI/ML Engineer with 1.8+ years of experience
 * Building Generative AI and RAG applications
 * Working with LangChain, FastAPI, Python and LLMs
 * Interested in Agentic AI, Multi-Agent Systems and LLMOps
